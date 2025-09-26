@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ninayal" alt="ninayal" /></a> </p>
 
-- 💬 Ask me about **Data Science & Machine Learning - Python (Pandas, NumPy, Scikit-learn) - SQL & Databases - Data Visualization (Matplotlib, Seaborn) - Beginner-friendly AI projects**
+- 💬 Ask me about **Data Science & Machine Learning - Python - SQL & Databases - Beginner-friendly AI projects**
 
-- 📫 How to reach me **lamthanhyennhi@gmail.com**
+- 📫 How to reach me **ninayal198@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
