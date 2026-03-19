@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nina Lam</h1>
 <h3 align="center">🎓 Data Science student | 📊 Python, SQL, ML | 🌱 Learning AI & Big Data | 🤝 Open to collaborations</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ninayal&label=Profile%20views&color=0e75b6&style=flat" alt="ninayal" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ninayal" alt="ninayal" /></a> </p>
 
