@@ -1,7 +1,7 @@
-# <p align="center">✨ Nina Lam - Data Science Portfolio ✨</p>
+# <p align="center">✨ Nina Lam ✨</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=🎓+Data+Science+Student;📊+Python+%7C+SQL+%7C+Machine+Learning;🌱+Learning+AI+%26+Big+Data;🤝+Open+to+collaborations" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=🎓+Data+Science+Student;📊+Python+%7C+SQL+%7C+Machine+Learning;🌱+Learning+AI+%26+Big+Data;🤝+Open+to+collaborations" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ninayal&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="ninayal" width="350" />
 
-- 🔭 **Focusing on:** Data Science & Machine Learning projects.
+- 🔭 **Focusing on:** Data Science & Full-stack Development projects.
 - 💬 **Ask me about:** Python, SQL, and beginner-friendly AI.
 - 📚 **Learning:** Full-stack development with React & AWS.
 - 📫 **Reach me at:** [ninayal198@gmail.com](mailto:ninayal198@gmail.com)
@@ -24,11 +24,11 @@
 ### 🛠 Languages and Tools
 
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/> </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
 ---
