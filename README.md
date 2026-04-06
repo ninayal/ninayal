@@ -3,8 +3,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F598DD&center=true&vCenter=true&width=500&lines=Data+Science+Student;Full-stack+Developer;Learning+AI+%26+Big+Data;Open+to+collaborations" alt="Typing SVG" />
 </p>
+
 ---
-### 🚀 About Me
+
+### 🛠 About me
 
 - 🔭 **Currently focusing on:** The intersection of **Data Science** and **Full-stack Development**.
 - 💬 **Ask me about:** Python, SQL, and building data-driven web applications.
