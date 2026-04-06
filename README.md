@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ninayal&theme=radical&area=true&hide_border=true" alt="trophies" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ninayal&theme=shadow_red&area=true&hide_border=true" alt="trophies" />
 </p>
 
 ## 📖 Overview
