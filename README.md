@@ -10,7 +10,6 @@
 
 - 🔭 **Currently focusing on:** The intersection of **Data Science** and **Full-stack Development**.
 - 💬 **Ask me about:** Python, SQL, and building data-driven web applications.
-- 📚 **Academic Project:** Leading the *404brainnotfound* project on Infectious Disease Analytics.
 - 📫 **Reach me at:** [ninayal198@gmail.com](mailto:ninayal198@gmail.com)
 
 ---
@@ -37,7 +36,7 @@
 
 ---
 
-### 🤝 Connect with me
+### Connect with me ^^
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thanh-yen-nhi-lam-166486385)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/ninayal_)
 
