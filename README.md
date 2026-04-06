@@ -30,7 +30,7 @@
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ninayal&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ninayal&theme=merko&area=true&hide_border=true" alt="trophies" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ninayal&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
@@ -45,6 +45,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=100&section=footer" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ninayal&theme=merko&area=true&hide_border=true" alt="trophies" />
-</p>
