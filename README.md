@@ -16,7 +16,6 @@
 
 - 🔭 **Currently focusing on:** The intersection of **Data Science** and **Full-stack Development**.
 - 💬 **Ask me about:** Python, SQL, and building data-driven web applications.
-- 📚 **Academic Project:** Leading the *404brainnotfound* project on Infectious Disease Analytics.
 - 📫 **Reach me at:** [ninayal198@gmail.com](mailto:ninayal198@gmail.com)
 
 ---
