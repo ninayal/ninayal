@@ -1,12 +1,10 @@
-# <p align="center">✨ Thanh Yen Nhi (Nina) Lam ✨</p>
+# <p align="center">✨ Nina Lam ✨</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=🎓+Data+Science+Student;📊+Full-stack+Data+Science;🌱+Learning+AI+%26+Big+Data;🤝+Open+to+collaborations" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ninayal&theme=tokyonight&no-frame=true&margin-w=15" alt="trophies" />
-</p>
+![My Stats](https://github-readme-stats.vercel.app/api?username=ninayal&theme=tokyonight)
 
 ---
 
