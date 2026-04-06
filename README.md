@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ninayal&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="ninayal" width="350" />
+![Top Languages]"https://github-readme-stats.vercel.app/api/top-langs?username=ninayal&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="ninayal" width="350"
 
 - 🔭 **Focusing on:** Data Science & Full-stack Development projects.
 - 💬 **Ask me about:** Python, SQL, and beginner-friendly AI.
