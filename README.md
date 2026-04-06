@@ -1,7 +1,7 @@
 # <p align="center">✨ Nina Lam ✨</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=🎓+Data+Science+Student;💻+Full-stack+Developer;📊+Analyzing+Global+Health+Data;🚀+Building+Data-Driven+Web+Apps&version=1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E61E2A&center=true&vCenter=true&width=500&lines=🎓+Data+Science+Student;💻+Full-stack+Developer;🚀+Building+Data-Driven+Web+Apps&version=1" alt="Typing SVG" />
 </p>
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=ninayal&theme=tokyonight)
