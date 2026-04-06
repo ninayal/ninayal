@@ -14,9 +14,10 @@
 
 ### 🛠 Languages and Tools
  
-<p align="center">
-  <img src ="[https://skillicons.dev/icons?i=python,sql,html,css,react,flask,aws,github&theme=dark](https://skillicons.dev/icons?i=py,sqlite,react,flask,aws,html,css,figma&perline=3)" alt ="app" />
- 
+<p align="right">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,sqlite,react,flask,aws,html,css,figma&perline=3" />
+  </a>
 </p>
 
 ---
