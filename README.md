@@ -6,8 +6,6 @@
 ---
 ### 🚀 About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ninayal&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="ninayal" width="350" />
-
 - 🔭 **Currently focusing on:** The intersection of **Data Science** and **Full-stack Development**.
 - 💬 **Ask me about:** Python, SQL, and building data-driven web applications.
 - 📫 **Reach me at:** [ninayal198@gmail.com](mailto:ninayal198@gmail.com)
@@ -17,12 +15,8 @@
 ### 🛠 Languages and Tools
  
 <p align="left">
-  <img src ="https://skillicons.dev/icons?i=python,sql,html,css,react,flask,aws,github&theme=dark" alt ="random" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src ="[https://skillicons.dev/icons?i=python,sql,html,css,react,flask,aws,github&theme=dark](https://skillicons.dev/icons?i=py,sqlite,react,flask,aws,html,css,figma&perline=3)" alt ="random" />
+ 
 </p>
 
 ---
