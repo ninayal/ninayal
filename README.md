@@ -1,7 +1,7 @@
 # <p align="center">✨Nina Lam ✨</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E61E2A&center=true&vCenter=true&width=500&lines=Data Science; 🎓+Data+Science+Student;📊+Full-stack+Developer; 🌱+Learning+AI+%26+Big+Data;🤝+Open+to+collaborations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E61E2A&center=true&vCenter=true&width=500&lines=Data+Science+Student;📊+Full-stack+Developer; 🌱+Learning+AI+%26+Big+Data;🤝+Open+to+collaborations" alt="Typing SVG" />
 </p>
 
 <p align="center">
