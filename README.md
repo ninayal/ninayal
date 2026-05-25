@@ -33,12 +33,3 @@
 </p>
 
 ---
-
-### Connect with me ^^
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thanh-yen-nhi-lam-166486385)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/ninayal_)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=100&section=footer" />
-</p>
-
