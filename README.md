@@ -42,8 +42,3 @@
 </p>
 
 ---
-<div>
-<img src="https://raw.githubusercontent.com/ninayal/ninayal/pacman-output/pacman-contribution-graph-dark.svg" #gh-dark-mode-only alt="pacman contribution graph">
-<img src="https://raw.githubusercontent.com/ninayal/ninayal/pacman-output/pacman-contribution-graph.svg" #gh-light-mode-only alt="pacman contribution graph">
-</div>
-
