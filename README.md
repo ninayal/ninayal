@@ -36,9 +36,9 @@
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ninayal&theme=merko&area=true&hide_border=true" alt="trophies" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ninayal&theme=tokyonight&hide_border=true" alt="streak" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ninayal&theme=merko&area=true&hide_border=true" alt="trophies" />
 </p>
 
 ---
