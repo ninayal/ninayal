@@ -5,8 +5,9 @@
 
 <!-- AVATAR + TYPING -->
 <div align="center">
+  <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
   <br/><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F598DD&center=true&vCenter=true&width=520&lines=👩‍💻+Data+Science+Student;🌐+Full-stack+Developer;🤖+Learning+AI+%26+Big+Data;💡+Open+to+Collaborations!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F598DD&center=true&vCenter=true&width=520&lines=Data+Science+Student+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Full-stack+Developer+%F0%9F%8C%90;Learning+AI+%26+Big+Data+%F0%9F%A4%96;Open+to+Collaborations+%F0%9F%92%A1" alt="Typing SVG" />
 </div>
 
 ---
