@@ -5,7 +5,6 @@
 
 <!-- AVATAR + TYPING -->
 <div align="center">
-  <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
   <br/><br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F598DD&center=true&vCenter=true&width=520&lines=👩‍💻+Data+Science+Student;🌐+Full-stack+Developer;🤖+Learning+AI+%26+Big+Data;💡+Open+to+Collaborations!" alt="Typing SVG" />
 </div>
