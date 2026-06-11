@@ -75,14 +75,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ninayal&label=Profile+Views&color=F598DD&style=for-the-badge" />
-</div>
-
----
-
 ### 📈 Activity Graph
 
 <div align="center">
